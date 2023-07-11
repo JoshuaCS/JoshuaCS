@@ -4,7 +4,7 @@ I'm Josh, and I work with companies to deliver world-class software. I'm current
 
 I specialise in building teams who ship on-time, reliable and secure code. Industry doesn't matter to me, it's a great chance to learn about type of business. Here's some of the companies I've worked with recently:
 
-## LeapForward
+**LeapForward**
 https://letsleapforward.com
 - First engineering hire in-house
 - Re-built platform from ground up for scale and security
