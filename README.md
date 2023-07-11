@@ -9,7 +9,7 @@ Here's some of the companies I've worked with recently:
 <br>
 **LeapForward**
 
-[https://letsleapforward.com
+[letsleapforward.com
 ](https://letsleapforward.com
 )
 - First engineering hire in-house
