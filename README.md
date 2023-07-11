@@ -2,7 +2,7 @@
 
 I'm Josh, and I work with companies to deliver world-class software. I'm currently Head of Engineering @ LeapForward.
 
-I specialise in building teams who ship on-time, reliable and secure code. Industry doesn't matter to me, it's a great chance to learn about type of business. 
+I specialise in building teams who ship on-time, reliable and secure code. I am industry agnostic having worked in edtech, insuretech, hrtech and more.
 
 Here's some of the companies I've worked with recently:
 
@@ -40,4 +40,4 @@ Here's some of the companies I've worked with recently:
 
   <br><br>
 
-Want to work with me? I'm always open to opportunities. Send me an email: joshuabrooks140@gmail.com
+Want to work with me and help take your team or startup to the next level? I'm always open to opportunities. Send me an email: joshuabrooks140@gmail.com
