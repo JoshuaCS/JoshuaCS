@@ -7,6 +7,7 @@ I specialise in building teams who ship on-time, reliable and secure code. I am 
 Here's some of the companies I've worked with recently:
 
 <br>
+
 **LeapForward**
 
 [letsleapforward.com
@@ -18,6 +19,7 @@ Here's some of the companies I've worked with recently:
 
 
 <br>
+
 **Careerbase**
 
 [careerbase.co
@@ -29,6 +31,7 @@ Here's some of the companies I've worked with recently:
 - Redesigned access control systems
 
 <br>
+
 **KidCampus**
 
 [kidcampus.com.au
