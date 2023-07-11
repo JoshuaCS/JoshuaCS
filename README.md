@@ -1,20 +1,13 @@
 ### Hello Everyone 👋
 
-I'm Josh, and I work with teams across Australia and the world to deliver world-class software. 
+I'm Josh, and I work with companies to deliver world-class software. I'm currently Head of Engineering @ LeapForward.
 
-Want to work with me? Send me an email: joshuabrooks140@gmail.com
+I specialise in building teams who ship on-time, reliable and secure code. Industry doesn't matter to me, it's a great chance to learn about type of business. Here's some of the companies I've worked with recently:
 
-<!--
-**JoshuaCS/JoshuaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## LeapForward
+https://letsleapforward.com
+- First engineering hire in-house
+- Re-built platform from ground up for scale and security
+- Hired out engineering, design and product teams to create an efficient and effective software machine
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Want to work with me? I'm always open to opportunities. Send me an email: joshuabrooks140@gmail.com
