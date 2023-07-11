@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello Everyone 👋
+
+I'm Josh, and I work with teams across Australia and the world to deliver world-class software. 
+
+Want to work with me? Send me an email: joshuabrooks140@gmail.com
 
 <!--
 **JoshuaCS/JoshuaCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
