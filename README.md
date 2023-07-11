@@ -20,7 +20,7 @@ Here's some of the companies I've worked with recently:
 <br>
 **Careerbase**
 
-[https://careerbase.co
+[careerbase.co
 ](https://careerbase.co
 )
 - Implemented systems to ensure features are shipped on-time and to-spec
@@ -31,7 +31,7 @@ Here's some of the companies I've worked with recently:
 <br>
 **KidCampus**
 
-[https://kidcampus.com.au
+[kidcampus.com.au
 ](https://kidcampus.com.au
 )
 - Designed and built children's class marketplace from ground-up
